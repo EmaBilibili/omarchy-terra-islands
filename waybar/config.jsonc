@@ -1,0 +1,30 @@
+{
+    "reload_style_on_change": true,
+    "layer": "top",
+    "position": "top",
+    "spacing": 0,
+    "height": 36,
+    "width": 0,
+    "modules-left": ["custom/omarchy", "hyprland/workspaces"],
+    "modules-center": ["clock#horizontal", "clock#vertical", "custom/weather", "custom/update", "custom/voxtype", "custom/screenrecording-indicator", "custom/idle-indicator", "custom/notification-silencing-indicator"],
+    "modules-right": [
+          "group/tray-expander",
+          "bluetooth",
+          "network",
+          "pulseaudio",
+          "cpu",
+          "battery"
+    ],
+    "hyprland/workspaces": {
+          "on-click": "activate",
+          "format": "{icon}",
+          "format-icons": {
+                  "default": "",
+                  "active": ""
+          }
+    },
+    "tray": {
+          "icon-size": 20,
+          "spacing": 17
+    }
+}
