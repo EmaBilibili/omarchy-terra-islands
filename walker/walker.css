@@ -1,0 +1,15 @@
+@define-color selected-text #EEECEA;
+  @define-color text #EEECEA;
+@define-color base #221A1B;
+@define-color border #8A736F;
+@define-color foreground #EEECEA;
+@define-color background #221A1B;
+
+.box-wrapper {
+    border-radius: 24px;
+}
+
+.search-container {
+    border-radius: 12px;
+  margin-bottom: 10px;
+}
