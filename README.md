@@ -1,44 +1,42 @@
-# Omarchy Terra Islands
+# 🌍 Omarchy Terra Islands
 
 *(English below)*
 
-Un tema minimalista y organico para Omarchy Linux. Utiliza un diseno de **islas flotantes** con una paleta de colores calida inspirada en tonos tierra y arcilla.
+Un tema minimalista y orgánico para Omarchy Linux. Utiliza un diseño de **islas flotantes** con una paleta de colores cálida inspirada en tonos tierra y arcilla.
 
-## Caracteristicas (ES)
+> **Nota sobre los colores:** Los colores de este tema (fondo `#221A1B`, acentos `#8A736F`) son **fijos**. Han sido diseñados específicamente para combinar con fondos de pantalla de tonos cálidos/tierra. Si cambias tu fondo de pantalla por uno muy diferente, los colores de la barra y el menú seguirán siendo tonos tierra a menos que los edites manualmente.
+
+## ✨ Características (ES)
 - **Terra Floating Islands:** La Waybar se divide en secciones flotantes con transparencias.
-- - **Organic Accents:** Colores calidos (#8A736F) que armonizan con fondos de pantalla naturales.
-  - - **Premium Geometry:** Bordes suavizados (24px en menus, 12px en la barra) para una interfaz menos agresiva.
-   
-    - ## Instalacion rapida (ES)
-   
-    - Copia y pega este comando en tu terminal:
-   
-    - ```bash
-      git clone https://github.com/EmaBilibili/omarchy-terra-islands.git
-      cd omarchy-terra-islands
-      chmod +x install.sh
-      ./install.sh
-      ```
+- **Menú Walker:** El menú principal y de búsqueda tiene los mismos colores cálidos y bordes redondeados suaves (24px) para una integración perfecta con la barra.
+- **Organic Accents:** Colores cálidos que armonizan con fondos de pantalla naturales.
+- **Premium Geometry:** Bordes suavizados para una interfaz menos agresiva.
 
-      ---
+## 📸 Demostración
+- ![Waybar](waybar.png)
+- ![Menú Walker](menu.png)
 
-      # Omarchy Terra Islands (English)
+## 🛠️ Instalación rápida (ES)
 
-      A minimalist and organic theme for Omarchy Linux. It features a **floating islands** design with a warm color palette inspired by earth and clay tones.
+```bash
+git clone https://github.com/EmaBilibili/omarchy-terra-islands.git
+cd omarchy-terra-islands
+chmod +x install.sh
+./install.sh
 
-      ## Features (EN)
-      - **Terra Floating Islands:** The Waybar is divided into floating sections with transparent gaps.
-      - - **Organic Accents:** Warm colors (#8A736F) that harmonize with natural and earthy wallpapers.
-        - - **Premium Geometry:** Smoothed borders (24px for menus, 12px for the bar) for a less aggressive, premium UI.
-         
-          - ## Quick Installation (EN)
-         
-          - Copy and paste this command into your terminal:
-         
-          - ```bash
-            git clone https://github.com/EmaBilibili/omarchy-terra-islands.git
-            cd omarchy-terra-islands
-            chmod +x install.sh
-            ./install.sh
-            ```
-            
+
+🌍 Omarchy Terra Islands (English)
+A minimalist and organic theme for Omarchy Linux. It features a floating islands design with a warm color palette inspired by earth and clay tones.
+
+Color Note: The colors in this theme (background #221A1B, accents #8A736F) are fixed. They were specifically designed to match warm/earthy wallpapers. They do not automatically adapt to new wallpapers if you change them.
+
+✨ Features (EN)
+Terra Floating Islands: The Waybar is divided into floating sections with transparent gaps.
+Walker Menu: The main application and search menu (Walker) shares the same warm colors and features smooth 24px rounded corners for seamless integration.
+Organic Accents: Warm colors that harmonize with natural and earthy wallpapers.
+Premium Geometry: Smoothed borders for a less aggressive, premium UI.
+
+git clone https://github.com/EmaBilibili/omarchy-terra-islands.git
+cd omarchy-terra-islands
+chmod +x install.sh
+./install.sh
